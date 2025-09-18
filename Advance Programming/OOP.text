@@ -1,0 +1,11 @@
+OOP : objecty oriented prog
+class: bluprint
+object : real world entity
+variable :
+    instance var :
+
+
+bitwise left shift : <<  : a*2*b
+right shift : >> a//2*b
+membership op : in , not in 
+identity op : is , is not 

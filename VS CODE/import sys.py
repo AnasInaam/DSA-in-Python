@@ -1,0 +1,13 @@
+import sys 
+print("Hello, World!", file=sys.stdout)
+
+with open("output.txt", "w") as f:
+    print("Hello, World!", file=f)
+
+import time 
+I = 0
+while I <= 3:
+    time.sleep(1)
+    print("ANAS", flush=False)
+    I += 1
+
