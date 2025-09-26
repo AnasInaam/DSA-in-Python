@@ -8,6 +8,3 @@ def fib(n , memo):
 
 n = 7
 print(fib(n))
-
-
-
